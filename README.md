@@ -20,7 +20,6 @@
 
 
 ## the languages I learned and what I know 
-<br/> 
 #css<br/> 
 #Html5 <br/> 
 #java<br/> 
