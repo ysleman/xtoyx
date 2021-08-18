@@ -3,34 +3,34 @@
 # - 📫 How to reach me Discord xtoyx#1534
 ## - Right now having a course for web fullstack delevoprer(40 hours) And Node.js(8Hours)
 ## - Hope This Will Help Me
-
+<br/> 
 ## Hello there , how are you all doing ?
-
+<br/> 
 
 
 ## Well I'm learning coding  its a mix of stuff yes a mess ik  :
-#cybersecurity 
-#malwareanalysis 
-#webdesign 
-#pythonprogramming 
-#machinelearning 
-#pythondjango 
-#Web fullstack Delveoper - Having A course
+#cybersecurity <br/> 
+#malwareanalysis <br/> 
+#webdesign <br/> 
+#pythonprogramming <br/> 
+#machinelearning <br/> 
+#pythondjango <br/> 
+#Web fullstack Delveoper - Having A course <br/> 
 
 
 
 ## the languages I learned and what I know 
-about coding :
-#css
-#html5 
-#java
-#c 
-#androiddeveloper 
-#discordbot
-#c++
-assembly
-#python - interduim
-for #cybersecurity i do know about ports the basics or maybe its intermediate stuff about : ports , sqlinjection , wpa and there a lot of stuff .
+<br/> 
+#css<br/> 
+#Html5 <br/> 
+#java<br/> 
+#c <br/> 
+#androiddeveloper <br/> 
+#discordbot<br/> 
+#c++<br/> 
+assembly<br/> 
+#python - interduim<br/> 
+for #cybersecurity i do know about ports the basics or maybe its intermediate stuff about : <br/> ports , sqlinjection , wpa and there a lot of stuff .<br/> 
  
 
 thanks for reading 
